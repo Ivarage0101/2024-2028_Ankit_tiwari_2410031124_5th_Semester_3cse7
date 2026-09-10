@@ -29,7 +29,7 @@ and earned the official **Google Cloud Completion Badge** on September 10, 2026.
 
 The completion badge is included in this repository as evidence of course completion.
 
-![Google Cloud Generative AI Completion Badge](Google_Cloud_Generative_AI_Badge.png)
+![Google Cloud Generative AI Completion Badge](Google_Cloud_Generative_AI_Badge.png.jpeg)
 
 ## Author
 
